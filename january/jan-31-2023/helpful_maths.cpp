@@ -1,3 +1,5 @@
+// https://codeforces.com/contest/339/submission/191445595
+
 #include <bits/stdc++.h>
 #include <iostream>
 
